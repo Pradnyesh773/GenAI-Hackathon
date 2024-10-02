@@ -47,5 +47,6 @@ Contributions
 Contributions are welcome! Please submit a pull request or open an issue for discussion.
 
 Contact:
-pratikvishe4@gmail.com 
+pradnyesh1236@gmail.com
+
 amanpundhir2003@gmail.com# GenAI-Hackathon
